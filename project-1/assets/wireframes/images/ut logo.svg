@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<ellipse fill="#606161" cx="349.505" cy="325.903" rx="175" ry="141"/>
+<ellipse fill="#D3D3D3" cx="346.788" cy="317.667" rx="175" ry="141"/>
+<g>
+	<defs>
+		<ellipse id="SVGID_1_" cx="345.788" cy="316.667" rx="160.788" ry="127.414"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="345.7878" y1="191" x2="345.7878" y2="445.8274">
+		<stop  offset="0" style="stop-color:#10103C"/>
+		<stop  offset="0.5353" style="stop-color:#10103B"/>
+		<stop  offset="0.7282" style="stop-color:#111038"/>
+		<stop  offset="0.8651" style="stop-color:#111032"/>
+		<stop  offset="0.9756" style="stop-color:#11102A"/>
+		<stop  offset="1" style="stop-color:#111028"/>
+	</linearGradient>
+	<ellipse clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" cx="345.788" cy="318.414" rx="160.788" ry="127.414"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FDB83D" stroke-width="23" stroke-miterlimit="10" d="M517.667,315.667
+		c0,0-120-50-381.333-2.667"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-width="4" stroke-miterlimit="10" d="M517.667,311.799
+		c0,0-120-50-381.333-2.667"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-miterlimit="10" d="M517.667,316.667
+		c0,0-120-50-381.333-2.667"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-width="0.5" stroke-miterlimit="10" d="M517.667,320.466
+		c0,0-120-50-381.333-2.667"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="256" y1="226" x2="256" y2="430">
+		<stop  offset="0" style="stop-color:#BF5827"/>
+		<stop  offset="0.2326" style="stop-color:#C15427"/>
+		<stop  offset="0.5491" style="stop-color:#C64727"/>
+		<stop  offset="0.9125" style="stop-color:#D02B27"/>
+		<stop  offset="1" style="stop-color:#D32027"/>
+	</linearGradient>
+	<circle clip-path="url(#SVGID_2_)" fill="url(#SVGID_4_)" cx="256" cy="328" r="102"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FDB83D" stroke-width="40" stroke-miterlimit="10" d="M126.51,350.429
+		c0,0,199.461,89.718,406.856-10.842"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-width="6" stroke-miterlimit="10" d="M130.731,360.939
+		c0,0,199.461,89.718,406.856-10.842"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-width="2" stroke-miterlimit="10" d="M130.731,352.673
+		c0,0,199.461,89.718,406.856-10.842"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#F8971D" stroke-miterlimit="10" d="M130.731,346.518
+		c0,0,199.461,89.718,406.856-10.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<circle id="SVGID_5_" cx="256" cy="328" r="102"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_6_)" fill="none" stroke="#F8971D" stroke-width="6" stroke-miterlimit="10" d="M156.833,297.26
+			c0,0,109.568,34.43,198.333,4.842"/>
+		<path clip-path="url(#SVGID_6_)" fill="none" stroke="#9D1E20" stroke-width="13" stroke-miterlimit="10" d="M169.667,265.532
+			c0,0,101.833,32,184.333,4.5"/>
+		<path clip-path="url(#SVGID_6_)" fill="none" stroke="#9D1E20" stroke-width="20" stroke-miterlimit="10" d="M148.964,328
+			c0,0,114.399,42.955,218.136,11.429"/>
+	</g>
+	<ellipse clip-path="url(#SVGID_2_)" fill="none" cx="345.788" cy="318.414" rx="160.788" ry="127.414"/>
+</g>
+<text transform="matrix(1 0 0 1 236.5 376)" fill="#3F403F" font-family="'HanSolo'" font-size="150" letter-spacing="15">UT</text>
+<text transform="matrix(1 0 0 1 236.5054 369.5)" fill="#FFFFFF" font-family="'HanSolo'" font-size="150" letter-spacing="15">UT</text>
+</svg>

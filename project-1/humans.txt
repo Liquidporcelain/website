@@ -1,0 +1,12 @@
+/* Team */
+Developer/Designer: Colin O'Brien
+Location: Ottawa, Canada
+
+/*Thanks*/
+To all the awesome people who helped me.
+
+/*Site*/
+
+Last update: 2013/12/11
+Standards: HTML5, CSS3
+Software: Adobe 
